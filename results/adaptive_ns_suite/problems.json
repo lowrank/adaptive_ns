@@ -1,0 +1,42 @@
+[
+  {
+    "name": "low_frequency",
+    "description": "Smooth low-frequency trigonometric target.",
+    "formula": "f(x)=sin(2 pi x)+0.30 cos(6 pi x)"
+  },
+  {
+    "name": "medium_fourier",
+    "description": "Moderate Fourier mixture with three frequencies.",
+    "formula": "f(x)=0.70 sin(4 pi x)+0.40 sin(10 pi x+0.30)+0.20 cos(18 pi x-0.20)"
+  },
+  {
+    "name": "high_frequency",
+    "description": "Higher-frequency Fourier mixture with four modes.",
+    "formula": "f(x)=0.55 sin(8 pi x)+0.35 sin(18 pi x+0.40)+0.25 cos(34 pi x-0.10)+0.15 sin(58 pi x)"
+  },
+  {
+    "name": "chirp_quadratic",
+    "description": "Frequency-increasing chirp plus a high-frequency perturbation.",
+    "formula": "f(x)=sin(2 pi (2x+7x^2))+0.25 sin(34 pi x)"
+  },
+  {
+    "name": "gaussian_bumps",
+    "description": "Fixed mixture of narrow Gaussian bumps.",
+    "formula": "f(x)=sum_i A_i exp(-(x-c_i)^2/(2 sigma_i^2)) with fixed (A,c,sigma)"
+  },
+  {
+    "name": "runge_rational",
+    "description": "Runge-style rational peak with sinusoidal ripple.",
+    "formula": "f(x)=1/(1+25x^2)+0.15 sin(12 pi x)"
+  },
+  {
+    "name": "cusp_abs",
+    "description": "Nonsmooth absolute-value cusp with oscillatory ripple.",
+    "formula": "f(x)=|x|-0.50+0.25 sin(8 pi x)"
+  },
+  {
+    "name": "multiscale_mix",
+    "description": "Low, medium, and high-frequency Fourier components plus localized bumps.",
+    "formula": "f(x)=0.45 sin(2 pi x)+0.25 sin(14 pi x+0.20)+0.12 cos(46 pi x)+0.35 g_bumps(x)"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "run_name": "spectrum_diagnostics",
+  "epochs": 500,
+  "n_inits": 3,
+  "hidden": 32,
+  "batch_size": 256,
+  "threads": 1,
+  "device": "cpu",
+  "adaptive_a_init": 3.87,
+  "methods": [
+    "jordan",
+    "fastns",
+    "adaptive"
+  ],
+  "problems": null,
+  "log_epochs": [
+    0,
+    25,
+    100,
+    250,
+    499
+  ],
+  "clean": true
+}

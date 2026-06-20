@@ -1,0 +1,20 @@
+{
+  "run_name": "adaptive_ns_suite",
+  "epochs": 500,
+  "n_inits": 20,
+  "hidden": 32,
+  "batch_size": 256,
+  "threads": 1,
+  "device": "cpu",
+  "adaptive_a_init": 3.87,
+  "adaptive_transition_start": -1,
+  "adaptive_transition_steps": 100,
+  "adaptive_spike_window": 40,
+  "adaptive_spike_threshold": 1.25,
+  "adaptive_spike_ema_beta": 0.98,
+  "adaptive_min_spikes": 2,
+  "adaptive_spike_count_margin": 1,
+  "adam_lr": 0.001,
+  "adamw_lr": 0.001,
+  "adamw_weight_decay": 0.01
+}

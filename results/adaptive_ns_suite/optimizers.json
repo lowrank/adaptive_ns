@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Standard Muon",
+    "slug": "standard_muon",
+    "description": "Muon with classical Newton-Schulz coefficients (1.5, -0.5, 0)."
+  },
+  {
+    "name": "Jordan Muon",
+    "slug": "jordan_muon",
+    "description": "Muon with Keller Jordan coefficients."
+  },
+  {
+    "name": "FastNS Muon",
+    "slug": "fastns_muon",
+    "description": "Muon with the fastest strict-band coefficient triple from the PDF."
+  },
+  {
+    "name": "Adaptive Dense Muon",
+    "slug": "adaptive_dense_muon",
+    "description": "Current adaptive Muon baseline: FastNS-to-fallback a schedule triggered by rising loss-spike frequency."
+  },
+  {
+    "name": "Adam",
+    "slug": "adam",
+    "description": "Torch Adam baseline."
+  },
+  {
+    "name": "AdamW",
+    "slug": "adamw",
+    "description": "Torch AdamW baseline with decoupled weight decay."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "method": "Standard Muon",
+    "geomean_final_ratio": 2.3169977880354553,
+    "geomean_min_ratio": 2.6360023471978398,
+    "final_wins": 0,
+    "mean_spikes": 0.0,
+    "mean_a_final": 1.5,
+    "mean_trigger_step": NaN,
+    "mean_trigger_rate": 0.0
+  },
+  {
+    "method": "Jordan Muon",
+    "geomean_final_ratio": 1.0988194803451041,
+    "geomean_min_ratio": 1.1701612986540157,
+    "final_wins": 4,
+    "mean_spikes": 0.4875,
+    "mean_a_final": 3.4449999999999994,
+    "mean_trigger_step": NaN,
+    "mean_trigger_rate": 0.0
+  },
+  {
+    "method": "FastNS Muon",
+    "geomean_final_ratio": 1.1517540070531522,
+    "geomean_min_ratio": 1.0140877762580696,
+    "final_wins": 1,
+    "mean_spikes": 16.168750000000003,
+    "mean_a_final": 3.867000000000001,
+    "mean_trigger_step": NaN,
+    "mean_trigger_rate": 0.0
+  },
+  {
+    "method": "Adaptive Dense Muon",
+    "geomean_final_ratio": 1.0242526886035515,
+    "geomean_min_ratio": 1.0149574132679227,
+    "final_wins": 3,
+    "mean_spikes": 12.087499999999999,
+    "mean_a_final": 3.815203125000001,
+    "mean_trigger_step": 422.66776315789474,
+    "mean_trigger_rate": 0.26875
+  },
+  {
+    "method": "Adam",
+    "geomean_final_ratio": 2.8616083888844464,
+    "geomean_min_ratio": 3.247505366695118,
+    "final_wins": 1,
+    "mean_spikes": 0.0,
+    "mean_a_final": NaN,
+    "mean_trigger_step": NaN,
+    "mean_trigger_rate": 0.0
+  },
+  {
+    "method": "AdamW",
+    "geomean_final_ratio": 2.8640650488078845,
+    "geomean_min_ratio": 3.2502552401721214,
+    "final_wins": 0,
+    "mean_spikes": 0.0,
+    "mean_a_final": NaN,
+    "mean_trigger_step": NaN,
+    "mean_trigger_rate": 0.0
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "problem": "low_frequency",
+    "method": "Standard Muon",
+    "final_mean": 0.060343153029680255,
+    "final_ratio": 10.870398958402083,
+    "min_mean": 0.048936746828258035,
+    "min_ratio": 18.58351895553312,
+    "is_final_best": false
+  },
+  {
+    "problem": "low_frequency",
+    "method": "Jordan Muon",
+    "final_mean": 0.007645932957530022,
+    "final_ratio": 1.3773615975397584,
+    "min_mean": 0.004172318812925369,
+    "min_ratio": 1.584420109097923,
+    "is_final_best": false
+  },
+  {
+    "problem": "low_frequency",
+    "method": "FastNS Muon",
+    "final_mean": 0.009588731452822685,
+    "final_ratio": 1.7273432222856009,
+    "min_mean": 0.002633341238833964,
+    "min_ratio": 1.0,
+    "is_final_best": false
+  },
+  {
+    "problem": "low_frequency",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.005551144282799214,
+    "final_ratio": 1.0,
+    "min_mean": 0.0026417932589538396,
+    "min_ratio": 1.0032096182580645,
+    "is_final_best": true
+  },
+  {
+    "problem": "low_frequency",
+    "method": "Adam",
+    "final_mean": 0.0610911687836051,
+    "final_ratio": 11.005148789395063,
+    "min_mean": 0.05149621125310659,
+    "min_ratio": 19.555464553431353,
+    "is_final_best": false
+  },
+  {
+    "problem": "low_frequency",
+    "method": "AdamW",
+    "final_mean": 0.06122038196772337,
+    "final_ratio": 11.028425645037,
+    "min_mean": 0.051622549816966054,
+    "min_ratio": 19.60344107922161,
+    "is_final_best": false
+  },
+  {
+    "problem": "medium_fourier",
+    "method": "Standard Muon",
+    "final_mean": 0.21200858801603317,
+    "final_ratio": 4.583982205193289,
+    "min_mean": 0.18597501069307326,
+    "min_ratio": 4.88208435326747,
+    "is_final_best": false
+  },
+  {
+    "problem": "medium_fourier",
+    "method": "Jordan Muon",
+    "final_mean": 0.05510275606065988,
+    "final_ratio": 1.191414251672057,
+    "min_mean": 0.04731275010854006,
+    "min_ratio": 1.2420208293261863,
+    "is_final_best": false
+  },
+  {
+    "problem": "medium_fourier",
+    "method": "FastNS Muon",
+    "final_mean": 0.046249871514737605,
+    "final_ratio": 1.0,
+    "min_mean": 0.03809336284175515,
+    "min_ratio": 1.0,
+    "is_final_best": true
+  },
+  {
+    "problem": "medium_fourier",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.046249871514737605,
+    "final_ratio": 1.0,
+    "min_mean": 0.03809336284175515,
+    "min_ratio": 1.0,
+    "is_final_best": true
+  },
+  {
+    "problem": "medium_fourier",
+    "method": "Adam",
+    "final_mean": 0.2994127795100212,
+    "final_ratio": 6.473807811868467,
+    "min_mean": 0.25540170893073083,
+    "min_ratio": 6.704624897300435,
+    "is_final_best": false
+  },
+  {
+    "problem": "medium_fourier",
+    "method": "AdamW",
+    "final_mean": 0.29947772324085237,
+    "final_ratio": 6.475212004544126,
+    "min_mean": 0.25560434684157374,
+    "min_ratio": 6.7099444043149425,
+    "is_final_best": false
+  },
+  {
+    "problem": "high_frequency",
+    "method": "Standard Muon",
+    "final_mean": 0.24614324867725373,
+    "final_ratio": 1.1387392115640533,
+    "min_mean": 0.20302435830235482,
+    "min_ratio": 1.0970528984755676,
+    "is_final_best": false
+  },
+  {
+    "problem": "high_frequency",
+    "method": "Jordan Muon",
+    "final_mean": 0.21615418717265128,
+    "final_ratio": 1.0,
+    "min_mean": 0.18506341725587844,
+    "min_ratio": 1.0,
+    "is_final_best": true
+  },
+  {
+    "problem": "high_frequency",
+    "method": "FastNS Muon",
+    "final_mean": 0.2202137790620327,
+    "final_ratio": 1.0187810004630578,
+    "min_mean": 0.18708445653319358,
+    "min_ratio": 1.0109207930302115,
+    "is_final_best": false
+  },
+  {
+    "problem": "high_frequency",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.2202137790620327,
+    "final_ratio": 1.0187810004630578,
+    "min_mean": 0.18708445653319358,
+    "min_ratio": 1.0109207930302115,
+    "is_final_best": false
+  },
+  {
+    "problem": "high_frequency",
+    "method": "Adam",
+    "final_mean": 0.2476674847304821,
+    "final_ratio": 1.145790826307981,
+    "min_mean": 0.20571651980280875,
+    "min_ratio": 1.111600136067812,
+    "is_final_best": false
+  },
+  {
+    "problem": "high_frequency",
+    "method": "AdamW",
+    "final_mean": 0.2477064087986946,
+    "final_ratio": 1.1459709017842956,
+    "min_mean": 0.20572219267487526,
+    "min_ratio": 1.1116307897331914,
+    "is_final_best": false
+  },
+  {
+    "problem": "chirp_quadratic",
+    "method": "Standard Muon",
+    "final_mean": 0.5031177327036858,
+    "final_ratio": 1.1741600631668596,
+    "min_mean": 0.4323784276843071,
+    "min_ratio": 1.1490490712797254,
+    "is_final_best": false
+  },
+  {
+    "problem": "chirp_quadratic",
+    "method": "Jordan Muon",
+    "final_mean": 0.42849160730838776,
+    "final_ratio": 1.0,
+    "min_mean": 0.37629239559173583,
+    "min_ratio": 1.0,
+    "is_final_best": true
+  },
+  {
+    "problem": "chirp_quadratic",
+    "method": "FastNS Muon",
+    "final_mean": 0.45347215980291367,
+    "final_ratio": 1.0582988139521419,
+    "min_mean": 0.39533050209283827,
+    "min_ratio": 1.050593917719661,
+    "is_final_best": false
+  },
+  {
+    "problem": "chirp_quadratic",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.45347215980291367,
+    "final_ratio": 1.0582988139521419,
+    "min_mean": 0.39533050209283827,
+    "min_ratio": 1.050593917719661,
+    "is_final_best": false
+  },
+  {
+    "problem": "chirp_quadratic",
+    "method": "Adam",
+    "final_mean": 0.5036322176456451,
+    "final_ratio": 1.1753607516591995,
+    "min_mean": 0.43311135172843934,
+    "min_ratio": 1.1509968226898482,
+    "is_final_best": false
+  },
+  {
+    "problem": "chirp_quadratic",
+    "method": "AdamW",
+    "final_mean": 0.5036264836788178,
+    "final_ratio": 1.1753473699109236,
+    "min_mean": 0.4331053212285042,
+    "min_ratio": 1.1509807965888539,
+    "is_final_best": false
+  },
+  {
+    "problem": "gaussian_bumps",
+    "method": "Standard Muon",
+    "final_mean": 0.03339616898447275,
+    "final_ratio": 8.828053689032618,
+    "min_mean": 0.026989113166928293,
+    "min_ratio": 14.991038839927354,
+    "is_final_best": false
+  },
+  {
+    "problem": "gaussian_bumps",
+    "method": "Jordan Muon",
+    "final_mean": 0.0046595983789302405,
+    "final_ratio": 1.2317336362039295,
+    "min_mean": 0.0030837680445984007,
+    "min_ratio": 1.7128716399080888,
+    "is_final_best": false
+  },
+  {
+    "problem": "gaussian_bumps",
+    "method": "FastNS Muon",
+    "final_mean": 0.005567949509713799,
+    "final_ratio": 1.4718501763609486,
+    "min_mean": 0.001800349759287201,
+    "min_ratio": 1.0,
+    "is_final_best": false
+  },
+  {
+    "problem": "gaussian_bumps",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.0037829594337381424,
+    "final_ratio": 1.0,
+    "min_mean": 0.0018108631746144965,
+    "min_ratio": 1.0058396515860664,
+    "is_final_best": true
+  },
+  {
+    "problem": "gaussian_bumps",
+    "method": "Adam",
+    "final_mean": 0.12741959393024443,
+    "final_ratio": 33.68251660164761,
+    "min_mean": 0.09402475282549858,
+    "min_ratio": 52.22582575439402,
+    "is_final_best": false
+  },
+  {
+    "problem": "gaussian_bumps",
+    "method": "AdamW",
+    "final_mean": 0.1276158694177866,
+    "final_ratio": 33.73440071274637,
+    "min_mean": 0.09414163120090961,
+    "min_ratio": 52.290745570562024,
+    "is_final_best": false
+  },
+  {
+    "problem": "runge_rational",
+    "method": "Standard Muon",
+    "final_mean": 0.01257621548138559,
+    "final_ratio": 1.119304129239178,
+    "min_mean": 0.01079949433915317,
+    "min_ratio": 1.100707473118041,
+    "is_final_best": false
+  },
+  {
+    "problem": "runge_rational",
+    "method": "Jordan Muon",
+    "final_mean": 0.011813677288591862,
+    "final_ratio": 1.0514369597270217,
+    "min_mean": 0.010210955562070013,
+    "min_ratio": 1.0407223469805535,
+    "is_final_best": false
+  },
+  {
+    "problem": "runge_rational",
+    "method": "FastNS Muon",
+    "final_mean": 0.012526762764900922,
+    "final_ratio": 1.1149027550860942,
+    "min_mean": 0.010278284456580878,
+    "min_ratio": 1.0475846513642137,
+    "is_final_best": false
+  },
+  {
+    "problem": "runge_rational",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.01240453040227294,
+    "final_ratio": 1.1040238711787165,
+    "min_mean": 0.01025600847788155,
+    "min_ratio": 1.0453142361525984,
+    "is_final_best": false
+  },
+  {
+    "problem": "runge_rational",
+    "method": "Adam",
+    "final_mean": 0.011235744738951326,
+    "final_ratio": 1.0,
+    "min_mean": 0.009811411844566464,
+    "min_ratio": 1.0,
+    "is_final_best": true
+  },
+  {
+    "problem": "runge_rational",
+    "method": "AdamW",
+    "final_mean": 0.01123714349232614,
+    "final_ratio": 1.000124491380617,
+    "min_mean": 0.00981301893480122,
+    "min_ratio": 1.0001637980608924,
+    "is_final_best": false
+  },
+  {
+    "problem": "cusp_abs",
+    "method": "Standard Muon",
+    "final_mean": 0.03238730179145932,
+    "final_ratio": 1.065302282106742,
+    "min_mean": 0.027398690953850745,
+    "min_ratio": 1.0398359783953373,
+    "is_final_best": false
+  },
+  {
+    "problem": "cusp_abs",
+    "method": "Jordan Muon",
+    "final_mean": 0.030401982925832273,
+    "final_ratio": 1.0,
+    "min_mean": 0.02640413185581565,
+    "min_ratio": 1.0020904403140019,
+    "is_final_best": true
+  },
+  {
+    "problem": "cusp_abs",
+    "method": "FastNS Muon",
+    "final_mean": 0.03059305138885975,
+    "final_ratio": 1.0062847368704075,
+    "min_mean": 0.026349050737917424,
+    "min_ratio": 1.0,
+    "is_final_best": false
+  },
+  {
+    "problem": "cusp_abs",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.03059305138885975,
+    "final_ratio": 1.0062847368704075,
+    "min_mean": 0.026349050737917424,
+    "min_ratio": 1.0,
+    "is_final_best": false
+  },
+  {
+    "problem": "cusp_abs",
+    "method": "Adam",
+    "final_mean": 0.032218840532004835,
+    "final_ratio": 1.059761154744574,
+    "min_mean": 0.027486213855445384,
+    "min_ratio": 1.0431576503016684,
+    "is_final_best": false
+  },
+  {
+    "problem": "cusp_abs",
+    "method": "AdamW",
+    "final_mean": 0.032232992071658376,
+    "final_ratio": 1.0602266355550878,
+    "min_mean": 0.027489973418414592,
+    "min_ratio": 1.0433003333533883,
+    "is_final_best": false
+  },
+  {
+    "problem": "multiscale_mix",
+    "method": "Standard Muon",
+    "final_mean": 0.04344181790947914,
+    "final_ratio": 1.1843472002796853,
+    "min_mean": 0.036945715360343453,
+    "min_ratio": 1.187950863268167,
+    "is_final_best": false
+  },
+  {
+    "problem": "multiscale_mix",
+    "method": "Jordan Muon",
+    "final_mean": 0.03667996842414141,
+    "final_ratio": 1.0,
+    "min_mean": 0.03110037334263325,
+    "min_ratio": 1.0,
+    "is_final_best": true
+  },
+  {
+    "problem": "multiscale_mix",
+    "method": "FastNS Muon",
+    "final_mean": 0.036933251470327375,
+    "final_ratio": 1.0069052144008734,
+    "min_mean": 0.03126287013292313,
+    "min_ratio": 1.0052249144568026,
+    "is_final_best": false
+  },
+  {
+    "problem": "multiscale_mix",
+    "method": "Adaptive Dense Muon",
+    "final_mean": 0.03709346111863852,
+    "final_ratio": 1.0112729839272425,
+    "min_mean": 0.03126287013292313,
+    "min_ratio": 1.0052249144568026,
+    "is_final_best": false
+  },
+  {
+    "problem": "multiscale_mix",
+    "method": "Adam",
+    "final_mean": 0.04815770480781793,
+    "final_ratio": 1.312915656059352,
+    "min_mean": 0.042098247818648814,
+    "min_ratio": 1.3536251592497566,
+    "is_final_best": false
+  },
+  {
+    "problem": "multiscale_mix",
+    "method": "AdamW",
+    "final_mean": 0.048267950490117076,
+    "final_ratio": 1.315921266124888,
+    "min_mean": 0.042181318439543244,
+    "min_ratio": 1.356296208242617,
+    "is_final_best": false
+  }
+]
